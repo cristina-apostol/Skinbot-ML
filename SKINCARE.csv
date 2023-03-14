@@ -16,17 +16,17 @@ Toner,Hada Labo - Gokujyun Premium Lotion,brightening,5.0,5.0,5.0,5.0,5.0,5.0,5.
 Toner,Hada Labo - Gokujyun Premium Lotion,large pores,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Toner,Hada Labo - Gokujyun Premium Lotion,scar healing,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Toner,Hada Labo - Gokujyun Premium Lotion,texture,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
-General Moisturizer,Clinique - Moisture Surge 72-Hour Auto-Replenishing Hydrator,dry,4.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-General Moisturizer,Clinique - Moisture Surge 72-Hour Auto-Replenishing Hydrator,age,4.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-General Moisturizer,Clinique - Moisture Surge 72-Hour Auto-Replenishing Hydrator,brightening,4.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-General Moisturizer,Clinique - Moisture Surge 72-Hour Auto-Replenishing Hydrator,dark spots,4.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-General Moisturizer,Clinique - Moisture Surge 72-Hour Auto-Replenishing Hydrator,texture,4.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-General Moisturizer,Clinique - Moisture Surge™ 100-Hour Auto-Replenishing Hydrator,dry,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-General Moisturizer,Clinique - Moisture Surge™ 100-Hour Auto-Replenishing Hydrator,age,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-General Moisturizer,Clinique - Moisture Surge™ 100-Hour Auto-Replenishing Hydrator,brightening,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-General Moisturizer,Clinique - Moisture Surge™ 100-Hour Auto-Replenishing Hydrator,large pores,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-General Moisturizer,Clinique - Moisture Surge™ 100-Hour Auto-Replenishing Hydrator,dark spots,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-General Moisturizer,Clinique - Moisture Surge™ 100-Hour Auto-Replenishing Hydrator,texture,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
+General Moisturizer,Clinique - Moisture Surge 72-Hour Auto-Replenishing Hydrator,dry,4.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+General Moisturizer,Clinique - Moisture Surge 72-Hour Auto-Replenishing Hydrator,age,4.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+General Moisturizer,Clinique - Moisture Surge 72-Hour Auto-Replenishing Hydrator,brightening,4.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+General Moisturizer,Clinique - Moisture Surge 72-Hour Auto-Replenishing Hydrator,dark spots,4.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+General Moisturizer,Clinique - Moisture Surge 72-Hour Auto-Replenishing Hydrator,texture,4.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+General Moisturizer,Clinique - Moisture Surge™ 100-Hour Auto-Replenishing Hydrator,dry,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+General Moisturizer,Clinique - Moisture Surge™ 100-Hour Auto-Replenishing Hydrator,age,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+General Moisturizer,Clinique - Moisture Surge™ 100-Hour Auto-Replenishing Hydrator,brightening,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+General Moisturizer,Clinique - Moisture Surge™ 100-Hour Auto-Replenishing Hydrator,large pores,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+General Moisturizer,Clinique - Moisture Surge™ 100-Hour Auto-Replenishing Hydrator,dark spots,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+General Moisturizer,Clinique - Moisture Surge™ 100-Hour Auto-Replenishing Hydrator,texture,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
 General Moisturizer,ma:nyo - Bifida Biome Aqua Barrier Cream,dry,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 General Moisturizer,ma:nyo - Bifida Biome Aqua Barrier Cream,oil,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 General Moisturizer,ma:nyo - Bifida Biome Aqua Barrier Cream,acne,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
@@ -84,13 +84,13 @@ Serum,ma:nyo - Bifida Biome Complex Ampoule,age,5.0,5.0,5.0,4.0,4.0,5.0,5.0,5.0,
 Serum,ma:nyo - Bifida Biome Complex Ampoule,brightening,5.0,5.0,5.0,4.0,4.0,5.0,5.0,5.0,5.0,4.0
 Serum,ma:nyo - Bifida Biome Complex Ampoule,scar healing,5.0,5.0,5.0,4.0,4.0,5.0,5.0,5.0,5.0,4.0
 Serum,ma:nyo - Bifida Biome Complex Ampoule,texture,5.0,5.0,5.0,4.0,4.0,5.0,5.0,5.0,5.0,4.0
-Toner,ma:nyo - Bifida Biome Ampoule Toner,dry,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-Toner,ma:nyo - Bifida Biome Ampoule Toner,oil,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-Toner,ma:nyo - Bifida Biome Ampoule Toner,age,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-Toner,ma:nyo - Bifida Biome Ampoule Toner,brightening,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-Toner,ma:nyo - Bifida Biome Ampoule Toner,scar healing,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-Toner,ma:nyo - Bifida Biome Ampoule Toner,sensitive,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-Toner,ma:nyo - Bifida Biome Ampoule Toner,texture,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
+Toner,ma:nyo - Bifida Biome Ampoule Toner,dry,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+Toner,ma:nyo - Bifida Biome Ampoule Toner,oil,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+Toner,ma:nyo - Bifida Biome Ampoule Toner,age,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+Toner,ma:nyo - Bifida Biome Ampoule Toner,brightening,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+Toner,ma:nyo - Bifida Biome Ampoule Toner,scar healing,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+Toner,ma:nyo - Bifida Biome Ampoule Toner,sensitive,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+Toner,ma:nyo - Bifida Biome Ampoule Toner,texture,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
 Serum,Doa Kozmetik - Tetrahexyldecyl Ascorbate 10% Serum,dry,5.0,5.0,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0
 Serum,Doa Kozmetik - Tetrahexyldecyl Ascorbate 10% Serum,age,5.0,5.0,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0
 Serum,Doa Kozmetik - Tetrahexyldecyl Ascorbate 10% Serum,brightening,5.0,5.0,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0
@@ -282,15 +282,15 @@ Serum,Isntree - TW-Real Bifida Ampoule,acne,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,
 Serum,Isntree - TW-Real Bifida Ampoule,age,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0
 Serum,Isntree - TW-Real Bifida Ampoule,brightening,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0
 Serum,Isntree - TW-Real Bifida Ampoule,sensitive,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0
-General Moisturizer,Hada Labo - Premium Whitening Water Cream,dry,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
-General Moisturizer,Hada Labo - Premium Whitening Water Cream,oil,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
-General Moisturizer,Hada Labo - Premium Whitening Water Cream,acne,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
-General Moisturizer,Hada Labo - Premium Whitening Water Cream,age,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
-General Moisturizer,Hada Labo - Premium Whitening Water Cream,brightening,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
-General Moisturizer,Hada Labo - Premium Whitening Water Cream,large pores,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
-General Moisturizer,Hada Labo - Premium Whitening Water Cream,scar healing,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
-General Moisturizer,Hada Labo - Premium Whitening Water Cream,dark spots,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
-General Moisturizer,Hada Labo - Premium Whitening Water Cream,texture,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
+General Moisturizer,Hada Labo - Premium Whitening Water Cream,dry,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
+General Moisturizer,Hada Labo - Premium Whitening Water Cream,oil,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
+General Moisturizer,Hada Labo - Premium Whitening Water Cream,acne,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
+General Moisturizer,Hada Labo - Premium Whitening Water Cream,age,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
+General Moisturizer,Hada Labo - Premium Whitening Water Cream,brightening,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
+General Moisturizer,Hada Labo - Premium Whitening Water Cream,large pores,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
+General Moisturizer,Hada Labo - Premium Whitening Water Cream,scar healing,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
+General Moisturizer,Hada Labo - Premium Whitening Water Cream,dark spots,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
+General Moisturizer,Hada Labo - Premium Whitening Water Cream,texture,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
 Serum,Neogen - Dermatology V.biome Infusion Serum,dry,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Serum,Neogen - Dermatology V.biome Infusion Serum,oil,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Serum,Neogen - Dermatology V.biome Infusion Serum,acne,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
@@ -353,13 +353,6 @@ Serum,Estée Lauder - Perfectionist Pro Serum Rapid Brightening Treatment with F
 Serum,Estée Lauder - Perfectionist Pro Serum Rapid Brightening Treatment with Ferment² + Vitamin C,large pores,5.0,4.0,5.0,5.0,5.0,2.0,5.0,5.0,5.0,5.0
 Serum,Estée Lauder - Perfectionist Pro Serum Rapid Brightening Treatment with Ferment² + Vitamin C,dark spots,5.0,4.0,5.0,5.0,5.0,2.0,5.0,5.0,5.0,5.0
 Serum,Estée Lauder - Perfectionist Pro Serum Rapid Brightening Treatment with Ferment² + Vitamin C,texture,5.0,4.0,5.0,5.0,5.0,2.0,5.0,5.0,5.0,5.0
-Toner,FaceTheory - Colloidal-C Anti-Redness Toner T3,dry,5.0,5.0,,,,,,,,
-Toner,FaceTheory - Colloidal-C Anti-Redness Toner T3,age,5.0,5.0,,,,,,,,
-Toner,FaceTheory - Colloidal-C Anti-Redness Toner T3,brightening,5.0,5.0,,,,,,,,
-Toner,FaceTheory - Colloidal-C Anti-Redness Toner T3,large pores,5.0,5.0,,,,,,,,
-Toner,FaceTheory - Colloidal-C Anti-Redness Toner T3,sensitive,5.0,5.0,,,,,,,,
-Toner,FaceTheory - Colloidal-C Anti-Redness Toner T3,dark spots,5.0,5.0,,,,,,,,
-Toner,FaceTheory - Colloidal-C Anti-Redness Toner T3,texture,5.0,5.0,,,,,,,,
 Serum,Pacifica - Wake Up Beautiful Retinoid Serum,dry,4.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,4.0
 Serum,Pacifica - Wake Up Beautiful Retinoid Serum,oil,4.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,4.0
 Serum,Pacifica - Wake Up Beautiful Retinoid Serum,acne,4.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,4.0
@@ -546,11 +539,11 @@ Facial Treatment,Missha - Time Revolution Night Repair Ampoule 5x,acne,5.0,4.0,5
 Facial Treatment,Missha - Time Revolution Night Repair Ampoule 5x,age,5.0,4.0,5.0,4.0,5.0,4.0,4.0,5.0,4.0,5.0
 Facial Treatment,Missha - Time Revolution Night Repair Ampoule 5x,brightening,5.0,4.0,5.0,4.0,5.0,4.0,4.0,5.0,4.0,5.0
 Facial Treatment,Missha - Time Revolution Night Repair Ampoule 5x,sensitive,5.0,4.0,5.0,4.0,5.0,4.0,4.0,5.0,4.0,5.0
-Serum,Round Lab - 1025 Dokdo Ampoule,dry,4.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
-Serum,Round Lab - 1025 Dokdo Ampoule,age,4.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
-Serum,Round Lab - 1025 Dokdo Ampoule,brightening,4.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
-Serum,Round Lab - 1025 Dokdo Ampoule,scar healing,4.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
-Serum,Round Lab - 1025 Dokdo Ampoule,sensitive,4.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
+Serum,Round Lab - 1025 Dokdo Ampoule,dry,4.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
+Serum,Round Lab - 1025 Dokdo Ampoule,age,4.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
+Serum,Round Lab - 1025 Dokdo Ampoule,brightening,4.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
+Serum,Round Lab - 1025 Dokdo Ampoule,scar healing,4.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
+Serum,Round Lab - 1025 Dokdo Ampoule,sensitive,4.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
 Face Cleanser,Versed - Wash It Out Gel Cleanser,dry,5.0,4.0,5.0,4.0,5.0,3.0,3.0,5.0,5.0,4.0
 Face Cleanser,Versed - Wash It Out Gel Cleanser,age,5.0,4.0,5.0,4.0,5.0,3.0,3.0,5.0,5.0,4.0
 Face Cleanser,Versed - Wash It Out Gel Cleanser,brightening,5.0,4.0,5.0,4.0,5.0,3.0,3.0,5.0,5.0,4.0
@@ -874,15 +867,15 @@ Night Moisturizer,Estée Lauder - Revitalizing Supreme + Night,brightening,5.0,5
 Night Moisturizer,Estée Lauder - Revitalizing Supreme + Night,large pores,5.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,3.0
 Night Moisturizer,Estée Lauder - Revitalizing Supreme + Night,dark spots,5.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,3.0
 Night Moisturizer,Estée Lauder - Revitalizing Supreme + Night,texture,5.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,3.0
-Serum,Neutrogena - Rapid Wrinkle Repair Serum,dry,5.0,3.0,5.0,5.0,5.0,5.0,,,,
-Serum,Neutrogena - Rapid Wrinkle Repair Serum,oil,5.0,3.0,5.0,5.0,5.0,5.0,,,,
-Serum,Neutrogena - Rapid Wrinkle Repair Serum,acne,5.0,3.0,5.0,5.0,5.0,5.0,,,,
-Serum,Neutrogena - Rapid Wrinkle Repair Serum,age,5.0,3.0,5.0,5.0,5.0,5.0,,,,
-Serum,Neutrogena - Rapid Wrinkle Repair Serum,brightening,5.0,3.0,5.0,5.0,5.0,5.0,,,,
-Serum,Neutrogena - Rapid Wrinkle Repair Serum,large pores,5.0,3.0,5.0,5.0,5.0,5.0,,,,
-Serum,Neutrogena - Rapid Wrinkle Repair Serum,scar healing,5.0,3.0,5.0,5.0,5.0,5.0,,,,
-Serum,Neutrogena - Rapid Wrinkle Repair Serum,dark spots,5.0,3.0,5.0,5.0,5.0,5.0,,,,
-Serum,Neutrogena - Rapid Wrinkle Repair Serum,texture,5.0,3.0,5.0,5.0,5.0,5.0,,,,
+Serum,Neutrogena - Rapid Wrinkle Repair Serum,dry,5.0,3.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7
+Serum,Neutrogena - Rapid Wrinkle Repair Serum,oil,5.0,3.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7
+Serum,Neutrogena - Rapid Wrinkle Repair Serum,acne,5.0,3.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7
+Serum,Neutrogena - Rapid Wrinkle Repair Serum,age,5.0,3.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7
+Serum,Neutrogena - Rapid Wrinkle Repair Serum,brightening,5.0,3.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7
+Serum,Neutrogena - Rapid Wrinkle Repair Serum,large pores,5.0,3.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7
+Serum,Neutrogena - Rapid Wrinkle Repair Serum,scar healing,5.0,3.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7
+Serum,Neutrogena - Rapid Wrinkle Repair Serum,dark spots,5.0,3.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7
+Serum,Neutrogena - Rapid Wrinkle Repair Serum,texture,5.0,3.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7
 General Moisturizer,Neogen - Dermatology V.biome Firming Cream,dry,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,4.0,5.0
 General Moisturizer,Neogen - Dermatology V.biome Firming Cream,oil,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,4.0,5.0
 General Moisturizer,Neogen - Dermatology V.biome Firming Cream,acne,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,4.0,5.0
@@ -1126,11 +1119,11 @@ Eye Moisturizer,Olehenriksen - Banana Bright Eye Crème,brightening,5.0,5.0,5.0,
 Eye Moisturizer,Olehenriksen - Banana Bright Eye Crème,large pores,5.0,5.0,5.0,4.0,5.0,5.0,5.0,4.0,5.0,4.0
 Eye Moisturizer,Olehenriksen - Banana Bright Eye Crème,dark spots,5.0,5.0,5.0,4.0,5.0,5.0,5.0,4.0,5.0,4.0
 Eye Moisturizer,Olehenriksen - Banana Bright Eye Crème,texture,5.0,5.0,5.0,4.0,5.0,5.0,5.0,4.0,5.0,4.0
-General Moisturizer,Tula Skincare - Dew Your Thing Oil Free Gel Cream,dry,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,
-General Moisturizer,Tula Skincare - Dew Your Thing Oil Free Gel Cream,age,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,
-General Moisturizer,Tula Skincare - Dew Your Thing Oil Free Gel Cream,brightening,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,
-General Moisturizer,Tula Skincare - Dew Your Thing Oil Free Gel Cream,large pores,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,
-General Moisturizer,Tula Skincare - Dew Your Thing Oil Free Gel Cream,sensitive,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,
+General Moisturizer,Tula Skincare - Dew Your Thing Oil Free Gel Cream,dry,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7
+General Moisturizer,Tula Skincare - Dew Your Thing Oil Free Gel Cream,age,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7
+General Moisturizer,Tula Skincare - Dew Your Thing Oil Free Gel Cream,brightening,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7
+General Moisturizer,Tula Skincare - Dew Your Thing Oil Free Gel Cream,large pores,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7
+General Moisturizer,Tula Skincare - Dew Your Thing Oil Free Gel Cream,sensitive,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7
 Facial Treatment,Clinique - Smart Night Clinical MD Multi-Dimensional Repair Treatment Retinol,dry,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0
 Facial Treatment,Clinique - Smart Night Clinical MD Multi-Dimensional Repair Treatment Retinol,oil,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0
 Facial Treatment,Clinique - Smart Night Clinical MD Multi-Dimensional Repair Treatment Retinol,acne,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0
@@ -1302,11 +1295,11 @@ Eye Moisturizer,Clinique - Repairwear Anti-Gravity Eye Cream,age,3.0,5.0,5.0,5.0
 Eye Moisturizer,Clinique - Repairwear Anti-Gravity Eye Cream,brightening,3.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0
 Eye Moisturizer,Clinique - Repairwear Anti-Gravity Eye Cream,dark spots,3.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0
 Eye Moisturizer,Clinique - Repairwear Anti-Gravity Eye Cream,texture,3.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0
-General Moisturizer,Olehenriksen - Cold Plunge™ Pore Remedy Moisturizer,dry,3.0,4.7,4.6,4.7,4.6,4.7,4.7,,,
-General Moisturizer,Olehenriksen - Cold Plunge™ Pore Remedy Moisturizer,oil,3.0,4.7,4.6,4.7,4.6,4.7,4.7,,,
-General Moisturizer,Olehenriksen - Cold Plunge™ Pore Remedy Moisturizer,acne,3.0,4.7,4.6,4.7,4.6,4.7,4.7,,,
-General Moisturizer,Olehenriksen - Cold Plunge™ Pore Remedy Moisturizer,brightening,3.0,4.7,4.6,4.7,4.6,4.7,4.7,,,
-General Moisturizer,Olehenriksen - Cold Plunge™ Pore Remedy Moisturizer,large pores,3.0,4.7,4.6,4.7,4.6,4.7,4.7,,,
+General Moisturizer,Olehenriksen - Cold Plunge™ Pore Remedy Moisturizer,dry,3.0,4.7,4.6,4.7,4.6,4.7,4.7,4.7,4.7,4.7
+General Moisturizer,Olehenriksen - Cold Plunge™ Pore Remedy Moisturizer,oil,3.0,4.7,4.6,4.7,4.6,4.7,4.7,4.7,4.7,4.7
+General Moisturizer,Olehenriksen - Cold Plunge™ Pore Remedy Moisturizer,acne,3.0,4.7,4.6,4.7,4.6,4.7,4.7,4.7,4.7,4.7
+General Moisturizer,Olehenriksen - Cold Plunge™ Pore Remedy Moisturizer,brightening,3.0,4.7,4.6,4.7,4.6,4.7,4.7,4.7,4.7,4.7
+General Moisturizer,Olehenriksen - Cold Plunge™ Pore Remedy Moisturizer,large pores,3.0,4.7,4.6,4.7,4.6,4.7,4.7,4.7,4.7,4.7
 General Moisturizer,SkinCeuticals - Daily Moisture,dry,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,3.0
 General Moisturizer,SkinCeuticals - Daily Moisture,oil,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,3.0
 General Moisturizer,SkinCeuticals - Daily Moisture,acne,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,3.0
@@ -1356,18 +1349,18 @@ Serum,Paula's Choice - Omega+ Complex Serum,brightening,5.0,4.0,5.0,4.0,5.0,5.0,
 Serum,Paula's Choice - Omega+ Complex Serum,large pores,5.0,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0
 Serum,Paula's Choice - Omega+ Complex Serum,dark spots,5.0,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0
 Serum,Paula's Choice - Omega+ Complex Serum,texture,5.0,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0
-Serum,Tula Skincare - Hello Radiance Illuminating Serum,dry,5.0,5.0,5.0,5.0,5.0,1.0,5.0,,,
-Serum,Tula Skincare - Hello Radiance Illuminating Serum,age,5.0,5.0,5.0,5.0,5.0,1.0,5.0,,,
-Serum,Tula Skincare - Hello Radiance Illuminating Serum,brightening,5.0,5.0,5.0,5.0,5.0,1.0,5.0,,,
-Serum,Tula Skincare - Hello Radiance Illuminating Serum,large pores,5.0,5.0,5.0,5.0,5.0,1.0,5.0,,,
-Serum,Tula Skincare - Hello Radiance Illuminating Serum,dark spots,5.0,5.0,5.0,5.0,5.0,1.0,5.0,,,
-Serum,Tula Skincare - Hello Radiance Illuminating Serum,texture,5.0,5.0,5.0,5.0,5.0,1.0,5.0,,,
-General Moisturizer,Paula's Choice - Moisture Boost Hydrating Treatment Cream,dry,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-General Moisturizer,Paula's Choice - Moisture Boost Hydrating Treatment Cream,age,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-General Moisturizer,Paula's Choice - Moisture Boost Hydrating Treatment Cream,brightening,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-General Moisturizer,Paula's Choice - Moisture Boost Hydrating Treatment Cream,scar healing,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-General Moisturizer,Paula's Choice - Moisture Boost Hydrating Treatment Cream,dark spots,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
-General Moisturizer,Paula's Choice - Moisture Boost Hydrating Treatment Cream,texture,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,
+Serum,Tula Skincare - Hello Radiance Illuminating Serum,dry,5.0,5.0,5.0,5.0,5.0,1.0,5.0,4.7,4.7,4.7
+Serum,Tula Skincare - Hello Radiance Illuminating Serum,age,5.0,5.0,5.0,5.0,5.0,1.0,5.0,4.7,4.7,4.7
+Serum,Tula Skincare - Hello Radiance Illuminating Serum,brightening,5.0,5.0,5.0,5.0,5.0,1.0,5.0,4.7,4.7,4.7
+Serum,Tula Skincare - Hello Radiance Illuminating Serum,large pores,5.0,5.0,5.0,5.0,5.0,1.0,5.0,4.7,4.7,4.7
+Serum,Tula Skincare - Hello Radiance Illuminating Serum,dark spots,5.0,5.0,5.0,5.0,5.0,1.0,5.0,4.7,4.7,4.7
+Serum,Tula Skincare - Hello Radiance Illuminating Serum,texture,5.0,5.0,5.0,5.0,5.0,1.0,5.0,4.7,4.7,4.7
+General Moisturizer,Paula's Choice - Moisture Boost Hydrating Treatment Cream,dry,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+General Moisturizer,Paula's Choice - Moisture Boost Hydrating Treatment Cream,age,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+General Moisturizer,Paula's Choice - Moisture Boost Hydrating Treatment Cream,brightening,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+General Moisturizer,Paula's Choice - Moisture Boost Hydrating Treatment Cream,scar healing,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+General Moisturizer,Paula's Choice - Moisture Boost Hydrating Treatment Cream,dark spots,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
+General Moisturizer,Paula's Choice - Moisture Boost Hydrating Treatment Cream,texture,5.0,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7
 General Moisturizer,Paula's Choice - Calm Redness Relief Moisturizer for Normal to Dry Skin,dry,3.0,4.0,4.0,3.0,5.0,1.0,5.0,1.0,5.0,1.0
 General Moisturizer,Paula's Choice - Calm Redness Relief Moisturizer for Normal to Dry Skin,age,3.0,4.0,4.0,3.0,5.0,1.0,5.0,1.0,5.0,1.0
 General Moisturizer,Paula's Choice - Calm Redness Relief Moisturizer for Normal to Dry Skin,brightening,3.0,4.0,4.0,3.0,5.0,1.0,5.0,1.0,5.0,1.0
@@ -1524,12 +1517,12 @@ Serum,Missha - Apieu Lactobacillus Moisturizing Ampoule,oil,5.0,5.0,5.0,5.0,5.0,
 Serum,Missha - Apieu Lactobacillus Moisturizing Ampoule,acne,5.0,5.0,5.0,5.0,5.0,5.0,3.0,4.0,5.0,5.0
 Serum,Missha - Apieu Lactobacillus Moisturizing Ampoule,brightening,5.0,5.0,5.0,5.0,5.0,5.0,3.0,4.0,5.0,5.0
 Serum,Missha - Apieu Lactobacillus Moisturizing Ampoule,sensitive,5.0,5.0,5.0,5.0,5.0,5.0,3.0,4.0,5.0,5.0
-Toner,Laneige - Essential Power Skin Toner for Normal to Dry Skin,dry,4.0,5.0,3.0,1.0,1.0,,,,,
-Toner,Laneige - Essential Power Skin Toner for Normal to Dry Skin,age,4.0,5.0,3.0,1.0,1.0,,,,,
-Toner,Laneige - Essential Power Skin Toner for Normal to Dry Skin,brightening,4.0,5.0,3.0,1.0,1.0,,,,,
-Toner,Laneige - Essential Power Skin Toner for Normal to Dry Skin,sensitive,4.0,5.0,3.0,1.0,1.0,,,,,
-Toner,Laneige - Essential Power Skin Toner for Normal to Dry Skin,dark spots,4.0,5.0,3.0,1.0,1.0,,,,,
-Toner,Laneige - Essential Power Skin Toner for Normal to Dry Skin,texture,4.0,5.0,3.0,1.0,1.0,,,,,
+Toner,Laneige - Essential Power Skin Toner for Normal to Dry Skin,dry,4.0,5.0,3.0,1.0,1.0,4.7,4.7,4.7,4.7,4.7
+Toner,Laneige - Essential Power Skin Toner for Normal to Dry Skin,age,4.0,5.0,3.0,1.0,1.0,4.7,4.7,4.7,4.7,4.7
+Toner,Laneige - Essential Power Skin Toner for Normal to Dry Skin,brightening,4.0,5.0,3.0,1.0,1.0,4.7,4.7,4.7,4.7,4.7
+Toner,Laneige - Essential Power Skin Toner for Normal to Dry Skin,sensitive,4.0,5.0,3.0,1.0,1.0,4.7,4.7,4.7,4.7,4.7
+Toner,Laneige - Essential Power Skin Toner for Normal to Dry Skin,dark spots,4.0,5.0,3.0,1.0,1.0,4.7,4.7,4.7,4.7,4.7
+Toner,Laneige - Essential Power Skin Toner for Normal to Dry Skin,texture,4.0,5.0,3.0,1.0,1.0,4.7,4.7,4.7,4.7,4.7
 Facial Treatment,Dermalogica - Clear Start Post-Breakout Fix,dry,5.0,5.0,5.0,5.0,3.0,5.0,5.0,5.0,5.0,5.0
 Facial Treatment,Dermalogica - Clear Start Post-Breakout Fix,oil,5.0,5.0,5.0,5.0,3.0,5.0,5.0,5.0,5.0,5.0
 Facial Treatment,Dermalogica - Clear Start Post-Breakout Fix,acne,5.0,5.0,5.0,5.0,3.0,5.0,5.0,5.0,5.0,5.0
@@ -1695,11 +1688,11 @@ Day Moisturizer,Origins - Plantscription SPF 25 Power Anti-Aging Oil-Free Cream,
 Day Moisturizer,Origins - Plantscription SPF 25 Power Anti-Aging Oil-Free Cream,large pores,4.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0
 Day Moisturizer,Origins - Plantscription SPF 25 Power Anti-Aging Oil-Free Cream,dark spots,4.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0
 Day Moisturizer,Origins - Plantscription SPF 25 Power Anti-Aging Oil-Free Cream,texture,4.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0
-General Moisturizer,Bioderma - Sébium Kerato+,dry,5.0,2.0,5.0,1.0,1.0,5.0,,,,
-General Moisturizer,Bioderma - Sébium Kerato+,oil,5.0,2.0,5.0,1.0,1.0,5.0,,,,
-General Moisturizer,Bioderma - Sébium Kerato+,acne,5.0,2.0,5.0,1.0,1.0,5.0,,,,
-General Moisturizer,Bioderma - Sébium Kerato+,brightening,5.0,2.0,5.0,1.0,1.0,5.0,,,,
-General Moisturizer,Bioderma - Sébium Kerato+,large pores,5.0,2.0,5.0,1.0,1.0,5.0,,,,
+General Moisturizer,Bioderma - Sébium Kerato+,dry,5.0,2.0,5.0,1.0,1.0,5.0,4.7,4.7,4.7,4.7
+General Moisturizer,Bioderma - Sébium Kerato+,oil,5.0,2.0,5.0,1.0,1.0,5.0,4.7,4.7,4.7,4.7
+General Moisturizer,Bioderma - Sébium Kerato+,acne,5.0,2.0,5.0,1.0,1.0,5.0,4.7,4.7,4.7,4.7
+General Moisturizer,Bioderma - Sébium Kerato+,brightening,5.0,2.0,5.0,1.0,1.0,5.0,4.7,4.7,4.7,4.7
+General Moisturizer,Bioderma - Sébium Kerato+,large pores,5.0,2.0,5.0,1.0,1.0,5.0,4.7,4.7,4.7,4.7
 Night Moisturizer,Estée Lauder - NightWear Plus Moisturizer Anti-Oxidant Night Detox Creme,dry,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Night Moisturizer,Estée Lauder - NightWear Plus Moisturizer Anti-Oxidant Night Detox Creme,age,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Night Moisturizer,Estée Lauder - NightWear Plus Moisturizer Anti-Oxidant Night Detox Creme,brightening,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
@@ -1712,16 +1705,16 @@ General Moisturizer,Kiehl's - Ultra Facial Moisturizing Cream with Squalane,oil,
 General Moisturizer,Kiehl's - Ultra Facial Moisturizing Cream with Squalane,acne,5.0,4.0,5.0,4.0,5.0,4.0,4.0,5.0,4.0,5.0
 General Moisturizer,Kiehl's - Ultra Facial Moisturizing Cream with Squalane,brightening,5.0,4.0,5.0,4.0,5.0,4.0,4.0,5.0,4.0,5.0
 General Moisturizer,Kiehl's - Ultra Facial Moisturizing Cream with Squalane,large pores,5.0,4.0,5.0,4.0,5.0,4.0,4.0,5.0,4.0,5.0
-Day Moisturizer,Shiseido - Benefiance Wrinkle Smoothing Day Cream SPF 23,dry,5.0,5.0,4.7,4.6,4.7,4.6,4.7,4.7,,
-Day Moisturizer,Shiseido - Benefiance Wrinkle Smoothing Day Cream SPF 23,age,5.0,5.0,4.7,4.6,4.7,4.6,4.7,4.7,,
-Day Moisturizer,Shiseido - Benefiance Wrinkle Smoothing Day Cream SPF 23,brightening,5.0,5.0,4.7,4.6,4.7,4.6,4.7,4.7,,
-Day Moisturizer,Shiseido - Benefiance Wrinkle Smoothing Day Cream SPF 23,large pores,5.0,5.0,4.7,4.6,4.7,4.6,4.7,4.7,,
-Day Moisturizer,Shiseido - Benefiance Wrinkle Smoothing Day Cream SPF 23,scar healing,5.0,5.0,4.7,4.6,4.7,4.6,4.7,4.7,,
-Night Moisturizer,Missha - Time Revolution Night Repair Ampoule Cream 5X,dry,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
-Night Moisturizer,Missha - Time Revolution Night Repair Ampoule Cream 5X,oil,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
-Night Moisturizer,Missha - Time Revolution Night Repair Ampoule Cream 5X,acne,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
-Night Moisturizer,Missha - Time Revolution Night Repair Ampoule Cream 5X,age,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
-Night Moisturizer,Missha - Time Revolution Night Repair Ampoule Cream 5X,brightening,5.0,4.6,4.7,4.6,4.7,4.4,4.4,,,
+Day Moisturizer,Shiseido - Benefiance Wrinkle Smoothing Day Cream SPF 23,dry,5.0,5.0,4.7,4.6,4.7,4.6,4.7,4.7,4.7,4.7
+Day Moisturizer,Shiseido - Benefiance Wrinkle Smoothing Day Cream SPF 23,age,5.0,5.0,4.7,4.6,4.7,4.6,4.7,4.7,4.7,4.7
+Day Moisturizer,Shiseido - Benefiance Wrinkle Smoothing Day Cream SPF 23,brightening,5.0,5.0,4.7,4.6,4.7,4.6,4.7,4.7,4.7,4.7
+Day Moisturizer,Shiseido - Benefiance Wrinkle Smoothing Day Cream SPF 23,large pores,5.0,5.0,4.7,4.6,4.7,4.6,4.7,4.7,4.7,4.7
+Day Moisturizer,Shiseido - Benefiance Wrinkle Smoothing Day Cream SPF 23,scar healing,5.0,5.0,4.7,4.6,4.7,4.6,4.7,4.7,4.7,4.7
+Night Moisturizer,Missha - Time Revolution Night Repair Ampoule Cream 5X,dry,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
+Night Moisturizer,Missha - Time Revolution Night Repair Ampoule Cream 5X,oil,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
+Night Moisturizer,Missha - Time Revolution Night Repair Ampoule Cream 5X,acne,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
+Night Moisturizer,Missha - Time Revolution Night Repair Ampoule Cream 5X,age,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
+Night Moisturizer,Missha - Time Revolution Night Repair Ampoule Cream 5X,brightening,5.0,4.6,4.7,4.6,4.7,4.4,4.4,4.7,4.7,4.7
 Face Cleanser,Olay - Foaming Cleanser Jelly,dry,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Face Cleanser,Olay - Foaming Cleanser Jelly,oil,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Face Cleanser,Olay - Foaming Cleanser Jelly,acne,4.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
@@ -1943,11 +1936,6 @@ Sunscreen,Isntree - Hyaluronic Acid Watery Sun Gel SPF50+ PA++++,brightening,5.0
 Sunscreen,Isntree - Hyaluronic Acid Watery Sun Gel SPF50+ PA++++,scar healing,5.0,4.0,5.0,4.0,5.0,4.0,4.0,5.0,4.0,5.0
 Sunscreen,Isntree - Hyaluronic Acid Watery Sun Gel SPF50+ PA++++,dark spots,5.0,4.0,5.0,4.0,5.0,4.0,4.0,5.0,4.0,5.0
 Sunscreen,Isntree - Hyaluronic Acid Watery Sun Gel SPF50+ PA++++,texture,5.0,4.0,5.0,4.0,5.0,4.0,4.0,5.0,4.0,5.0
-Toner,CeraVe - Hydrating Toner,oil,5.0,2.0,2.0,,,,,,,
-Toner,CeraVe - Hydrating Toner,acne,5.0,2.0,2.0,,,,,,,
-Toner,CeraVe - Hydrating Toner,age,5.0,2.0,2.0,,,,,,,
-Toner,CeraVe - Hydrating Toner,brightening,5.0,2.0,2.0,,,,,,,
-Toner,CeraVe - Hydrating Toner,large pores,5.0,2.0,2.0,,,,,,,
 Day Moisturizer,FaceTheory - Supergel Oil-free Moisturiser M3 for Oily and Acne-Prone Skin,oil,4.0,4.0,4.0,4.0,5.0,3.0,5.0,5.0,4.0,4.0
 Day Moisturizer,FaceTheory - Supergel Oil-free Moisturiser M3 for Oily and Acne-Prone Skin,acne,4.0,4.0,4.0,4.0,5.0,3.0,5.0,5.0,4.0,4.0
 Day Moisturizer,FaceTheory - Supergel Oil-free Moisturiser M3 for Oily and Acne-Prone Skin,age,4.0,4.0,4.0,4.0,5.0,3.0,5.0,5.0,4.0,4.0
@@ -2416,11 +2404,11 @@ Toner,Pixi Beauty - Retinol Tonic,scar healing,5.0,4.0,5.0,4.0,5.0,4.0,4.0,5.0,4
 Toner,Pixi Beauty - Retinol Tonic,sensitive,5.0,4.0,5.0,4.0,5.0,4.0,4.0,5.0,4.0,5.0
 Toner,Pixi Beauty - Retinol Tonic,dark spots,5.0,4.0,5.0,4.0,5.0,4.0,4.0,5.0,4.0,5.0
 Toner,Pixi Beauty - Retinol Tonic,texture,5.0,4.0,5.0,4.0,5.0,4.0,4.0,5.0,4.0,5.0
-Serum,FaceTheory - Porebright Serum N10,oil,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,
-Serum,FaceTheory - Porebright Serum N10,acne,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,
-Serum,FaceTheory - Porebright Serum N10,brightening,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,
-Serum,FaceTheory - Porebright Serum N10,large pores,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,
-Serum,FaceTheory - Porebright Serum N10,dark spots,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,
+Serum,FaceTheory - Porebright Serum N10,oil,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.7,4.7
+Serum,FaceTheory - Porebright Serum N10,acne,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.7,4.7
+Serum,FaceTheory - Porebright Serum N10,brightening,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.7,4.7
+Serum,FaceTheory - Porebright Serum N10,large pores,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.7,4.7
+Serum,FaceTheory - Porebright Serum N10,dark spots,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.7,4.7
 Facial Treatment,Paula's Choice - Defense Antioxidant Pore Purifier,oil,5.0,4.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0
 Facial Treatment,Paula's Choice - Defense Antioxidant Pore Purifier,acne,5.0,4.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0
 Facial Treatment,Paula's Choice - Defense Antioxidant Pore Purifier,age,5.0,4.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0
@@ -2442,13 +2430,13 @@ Toner,Isntree - Hyaluronic Acid Toner Plus,brightening,5.0,4.0,5.0,5.0,4.0,5.0,5
 Toner,Isntree - Hyaluronic Acid Toner Plus,scar healing,5.0,4.0,5.0,5.0,4.0,5.0,5.0,3.0,5.0,5.0
 Toner,Isntree - Hyaluronic Acid Toner Plus,sensitive,5.0,4.0,5.0,5.0,4.0,5.0,5.0,3.0,5.0,5.0
 Toner,Isntree - Hyaluronic Acid Toner Plus,texture,5.0,4.0,5.0,5.0,4.0,5.0,5.0,3.0,5.0,5.0
-Eye Moisturizer,Tula Skincare - Glow & Get It Cooling & Brightening Eye Balm,oil,5.0,5.0,5.0,5.0,5.0,5.0,,,,
-Eye Moisturizer,Tula Skincare - Glow & Get It Cooling & Brightening Eye Balm,acne,5.0,5.0,5.0,5.0,5.0,5.0,,,,
-Eye Moisturizer,Tula Skincare - Glow & Get It Cooling & Brightening Eye Balm,age,5.0,5.0,5.0,5.0,5.0,5.0,,,,
-Eye Moisturizer,Tula Skincare - Glow & Get It Cooling & Brightening Eye Balm,brightening,5.0,5.0,5.0,5.0,5.0,5.0,,,,
-Eye Moisturizer,Tula Skincare - Glow & Get It Cooling & Brightening Eye Balm,large pores,5.0,5.0,5.0,5.0,5.0,5.0,,,,
-Eye Moisturizer,Tula Skincare - Glow & Get It Cooling & Brightening Eye Balm,sensitive,5.0,5.0,5.0,5.0,5.0,5.0,,,,
-Eye Moisturizer,Tula Skincare - Glow & Get It Cooling & Brightening Eye Balm,dark spots,5.0,5.0,5.0,5.0,5.0,5.0,,,,
+Eye Moisturizer,Tula Skincare - Glow & Get It Cooling & Brightening Eye Balm,oil,5.0,5.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7
+Eye Moisturizer,Tula Skincare - Glow & Get It Cooling & Brightening Eye Balm,acne,5.0,5.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7
+Eye Moisturizer,Tula Skincare - Glow & Get It Cooling & Brightening Eye Balm,age,5.0,5.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7
+Eye Moisturizer,Tula Skincare - Glow & Get It Cooling & Brightening Eye Balm,brightening,5.0,5.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7
+Eye Moisturizer,Tula Skincare - Glow & Get It Cooling & Brightening Eye Balm,large pores,5.0,5.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7
+Eye Moisturizer,Tula Skincare - Glow & Get It Cooling & Brightening Eye Balm,sensitive,5.0,5.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7
+Eye Moisturizer,Tula Skincare - Glow & Get It Cooling & Brightening Eye Balm,dark spots,5.0,5.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7
 Face Cleanser,Urban Skin - Even Tone Gentle Gel Cleanser,oil,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Face Cleanser,Urban Skin - Even Tone Gentle Gel Cleanser,acne,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Face Cleanser,Urban Skin - Even Tone Gentle Gel Cleanser,age,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
@@ -2664,13 +2652,13 @@ Serum,FaceTheory - Regenacalm 2% Retinol and Vitamin C Serum S1,large pores,5.0,
 Serum,FaceTheory - Regenacalm 2% Retinol and Vitamin C Serum S1,scar healing,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,4.0
 Serum,FaceTheory - Regenacalm 2% Retinol and Vitamin C Serum S1,dark spots,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,4.0
 Serum,FaceTheory - Regenacalm 2% Retinol and Vitamin C Serum S1,texture,5.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,4.0
-Serum,Isntree - C-Niacin Toning Ampoule,oil,5.0,5.0,5.0,1.0,5.0,,,,,
-Serum,Isntree - C-Niacin Toning Ampoule,acne,5.0,5.0,5.0,1.0,5.0,,,,,
-Serum,Isntree - C-Niacin Toning Ampoule,age,5.0,5.0,5.0,1.0,5.0,,,,,
-Serum,Isntree - C-Niacin Toning Ampoule,brightening,5.0,5.0,5.0,1.0,5.0,,,,,
-Serum,Isntree - C-Niacin Toning Ampoule,sensitive,5.0,5.0,5.0,1.0,5.0,,,,,
-Serum,Isntree - C-Niacin Toning Ampoule,dark spots,5.0,5.0,5.0,1.0,5.0,,,,,
-Serum,Isntree - C-Niacin Toning Ampoule,texture,5.0,5.0,5.0,1.0,5.0,,,,,
+Serum,Isntree - C-Niacin Toning Ampoule,oil,5.0,5.0,5.0,1.0,5.0,4.7,4.7,4.7,4.7,4.7
+Serum,Isntree - C-Niacin Toning Ampoule,acne,5.0,5.0,5.0,1.0,5.0,4.7,4.7,4.7,4.7,4.7
+Serum,Isntree - C-Niacin Toning Ampoule,age,5.0,5.0,5.0,1.0,5.0,4.7,4.7,4.7,4.7,4.7
+Serum,Isntree - C-Niacin Toning Ampoule,brightening,5.0,5.0,5.0,1.0,5.0,4.7,4.7,4.7,4.7,4.7
+Serum,Isntree - C-Niacin Toning Ampoule,sensitive,5.0,5.0,5.0,1.0,5.0,4.7,4.7,4.7,4.7,4.7
+Serum,Isntree - C-Niacin Toning Ampoule,dark spots,5.0,5.0,5.0,1.0,5.0,4.7,4.7,4.7,4.7,4.7
+Serum,Isntree - C-Niacin Toning Ampoule,texture,5.0,5.0,5.0,1.0,5.0,4.7,4.7,4.7,4.7,4.7
 Serum,Vichy - Liftactiv B3 Serum Dark Spots & Wrinkles,oil,5.0,4.0,4.0,4.0,5.0,5.0,5.0,3.0,4.0,5.0
 Serum,Vichy - Liftactiv B3 Serum Dark Spots & Wrinkles,acne,5.0,4.0,4.0,4.0,5.0,5.0,5.0,3.0,4.0,5.0
 Serum,Vichy - Liftactiv B3 Serum Dark Spots & Wrinkles,age,5.0,4.0,4.0,4.0,5.0,5.0,5.0,3.0,4.0,5.0
@@ -2678,15 +2666,15 @@ Serum,Vichy - Liftactiv B3 Serum Dark Spots & Wrinkles,brightening,5.0,4.0,4.0,4
 Serum,Vichy - Liftactiv B3 Serum Dark Spots & Wrinkles,large pores,5.0,4.0,4.0,4.0,5.0,5.0,5.0,3.0,4.0,5.0
 Serum,Vichy - Liftactiv B3 Serum Dark Spots & Wrinkles,dark spots,5.0,4.0,4.0,4.0,5.0,5.0,5.0,3.0,4.0,5.0
 Serum,Vichy - Liftactiv B3 Serum Dark Spots & Wrinkles,texture,5.0,4.0,4.0,4.0,5.0,5.0,5.0,3.0,4.0,5.0
-Day Moisturizer,COSRX - AHA/BHA Refresh Vitamin C Daily Cream,oil,4.0,5.0,5.0,5.0,5.0,,,,,
-Day Moisturizer,COSRX - AHA/BHA Refresh Vitamin C Daily Cream,acne,4.0,5.0,5.0,5.0,5.0,,,,,
-Day Moisturizer,COSRX - AHA/BHA Refresh Vitamin C Daily Cream,age,4.0,5.0,5.0,5.0,5.0,,,,,
-Day Moisturizer,COSRX - AHA/BHA Refresh Vitamin C Daily Cream,brightening,4.0,5.0,5.0,5.0,5.0,,,,,
-Day Moisturizer,COSRX - AHA/BHA Refresh Vitamin C Daily Cream,large pores,4.0,5.0,5.0,5.0,5.0,,,,,
-Day Moisturizer,COSRX - AHA/BHA Refresh Vitamin C Daily Cream,scar healing,4.0,5.0,5.0,5.0,5.0,,,,,
-Day Moisturizer,COSRX - AHA/BHA Refresh Vitamin C Daily Cream,sensitive,4.0,5.0,5.0,5.0,5.0,,,,,
-Day Moisturizer,COSRX - AHA/BHA Refresh Vitamin C Daily Cream,dark spots,4.0,5.0,5.0,5.0,5.0,,,,,
-Day Moisturizer,COSRX - AHA/BHA Refresh Vitamin C Daily Cream,texture,4.0,5.0,5.0,5.0,5.0,,,,,
+Day Moisturizer,COSRX - AHA/BHA Refresh Vitamin C Daily Cream,oil,4.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7,4.7
+Day Moisturizer,COSRX - AHA/BHA Refresh Vitamin C Daily Cream,acne,4.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7,4.7
+Day Moisturizer,COSRX - AHA/BHA Refresh Vitamin C Daily Cream,age,4.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7,4.7
+Day Moisturizer,COSRX - AHA/BHA Refresh Vitamin C Daily Cream,brightening,4.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7,4.7
+Day Moisturizer,COSRX - AHA/BHA Refresh Vitamin C Daily Cream,large pores,4.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7,4.7
+Day Moisturizer,COSRX - AHA/BHA Refresh Vitamin C Daily Cream,scar healing,4.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7,4.7
+Day Moisturizer,COSRX - AHA/BHA Refresh Vitamin C Daily Cream,sensitive,4.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7,4.7
+Day Moisturizer,COSRX - AHA/BHA Refresh Vitamin C Daily Cream,dark spots,4.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7,4.7
+Day Moisturizer,COSRX - AHA/BHA Refresh Vitamin C Daily Cream,texture,4.0,5.0,5.0,5.0,5.0,4.7,4.7,4.7,4.7,4.7
 Serum,Naturium Skincare - Retinol Complex Serum,oil,5.0,5.0,5.0,5.0,5.0,5.0,4.0,4.0,4.0,4.0
 Serum,Naturium Skincare - Retinol Complex Serum,acne,5.0,5.0,5.0,5.0,5.0,5.0,4.0,4.0,4.0,4.0
 Serum,Naturium Skincare - Retinol Complex Serum,age,5.0,5.0,5.0,5.0,5.0,5.0,4.0,4.0,4.0,4.0
