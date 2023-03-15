@@ -7,18 +7,29 @@ import base64
 import time
 
 
+df=pd.read_csv('SKINCARE.csv')
 
 
-
-col1 , col2, col3 = st.columns([3 , 3, 3])
+col1 , col2, col3 = st.columns([1 , 3, 1])
 with col1:
     st.image(Image.open('CARA.jpg'), width= 100)
 
 
-col2.markdown('# Qué tipo de piel tengo?')
+col2.markdown('# Qué tipo de piel tienes?')
+
+with col2:   
+    Skin = st.selectbox('Selecciona tu tipo de piel', df.Skin.unique())
+
+
+
 col3.markdown('# Qué producto quiero?')
-col2.info('Procesando tu tipo de piel ')
-progress_bar= col2.progress(0)
+
+
+st.info('Procesando tu tipo de piel ')
+
+
+
+progress_bar= st.progress(0)
 
 for perc_completed in range(100):
     time.sleep(0.009)
