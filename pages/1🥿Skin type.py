@@ -1,15 +1,20 @@
 import streamlit as st
+import pandas as pd
+from PIL import Image
+import pylab as plt
+import webbrowser
+import base64
 import time
 
 
 
-st.title('¿Qué tipo de piel tengo?'':panda_face:')
 
 
+col1 , col2, col3 = st.columns([3 , 3, 3])
+with col1:
+    st.image(Image.open('CARA.jpg'), width= 100)
 
-col1 , col2, col3 = st.columns([2 , 2, 2])
 
-col1.markdown("# Bienvenidos a skinwhat")
 col2.markdown('# Qué tipo de piel tengo?')
 col3.markdown('# Qué producto quiero?')
 col2.info('Procesando tu tipo de piel ')

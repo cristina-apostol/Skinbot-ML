@@ -6,8 +6,26 @@ import webbrowser
 import base64
 import time
 
-st.set_page_config(
-    page_title='Skinwhat')
+st.set_page_config(page_icon="🧿", page_title="Skinbot", layout="wide")
+
+col1, col2, col3 = st.columns(3)
+
+with col1:
+    st.image(Image.open('CARA.jpg'), width= 400)
+
+with col2:
+    st.image(Image.open('SKINBOT.png'), width=600)
+
+with col3:
+    st.write(' ')
+
+
+
+
+st.title('Bienvenido a Skinbot')
+
+
+
 
 st.sidebar.header('Menu Lateral')
 st.sidebar.subheader('Streamlit Workshop for IH')
