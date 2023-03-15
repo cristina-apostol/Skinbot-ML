@@ -11,6 +11,8 @@ import numpy as np
 
 from scipy.spatial.distance import pdist, squareform
 
+st.set_page_config(page_icon="🧿", page_title="Skinbot", layout="wide")
+
 
 st.subheader('¿Qué productos existen según tu tipo de piel?')
 

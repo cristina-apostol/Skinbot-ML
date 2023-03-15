@@ -6,6 +6,7 @@ import webbrowser
 import base64
 import time
 
+st.set_page_config(page_icon="🧿", page_title="Skinbot", layout="wide")
 
 df=pd.read_csv('SKINCARE.csv')
 
@@ -72,67 +73,58 @@ if page == 'Producto' :
 
 else:
 
-    col1, col2 = st.columns(2)
+    #col1, col2 = st.columns(2)
 
-    with col1:
+    #with col1:
 
-        Skin = st.selectbox('Selecciona tu tipo de piel', df.Skin.unique())
-        st.write('¿Necesitas algún tratamiento específico?')
-        result1 = st.button('Si')
-        result2 = st.button('No')
-        if result1:
-            st.caption('Elige uno de los que te mostramos a continuación:')
-            st.checkbox('Acne')
-            nes_d = st.checkbox('Puntos negros')
-            nes_d=st.checkbox('Poros abiertos')
-            nes_d= st.checkbox('Brillos')
-            st.checkbox('Cicatrices')
-            cont = st.button('Continuar')
+    Skin = st.selectbox('Selecciona tu tipo de piel', df.Skin.unique())
+    st.write('¿Necesitas algún tratamiento específico?')
+    result1 = st.button('Si')
+    result2 = st.button('No')
+    if result1:
+        st.caption('Elige uno de los que te mostramos a continuación:')
+        st.checkbox('Acne')
+        nes_d = st.checkbox('Puntos negros', value=True)
+        nes_d=st.checkbox('Poros abiertos')
+        nes_d= st.checkbox('Brillos')
+        st.checkbox('Cicatrices')
+        cont = st.button('Continuar')
 
-            if cont:
-                st.write('Helo')
-                st.info('Procesando tu tipo de piel ')
-                progress_bar= st.progress(0)
-                for perc_completed in range(100):
-                    time.sleep(0.009)
-                    progress_bar.progress(perc_completed+1)  
+        if cont:
+             
+             with st.spinner('Analizando datos'):
+                 time.sleep(5)
 
 
-        elif result2:
-            st.info('Analizado tus gustos y necesidades')
-            progress_bar= st.progress(0)
-            for perc_completed in range(100):
-                time.sleep(0.03)
-                progress_bar.progress(perc_completed+1)  
+
+    elif result2:
+        with st.spinner('Analizando datos'):
+            time.sleep(5)
+
+        col1, col2 = st.columns(2)
+
+        with col1:
+            st.success('Esta es la rutina de skincare que skinbot ha creado para ti')
            
-    col2=" "
+    #col2=" "
 
 
-import streamlit as st
 
-code = '''for n,s in dict(simil_score).items():
-    
-    skincare[n]=skincare[n]*s   
-    
-skincare['Total']=skincare.sum(axis=1)
-
-recomendacion_skincare=skincare.sort_values('Total', ascending=False)'''
-st.code(code, language='python')
-
-import streamlit as st
-
-st.json({
-    'foo': 'bar',
-    'baz': 'boz',
-    'stuff': [
-        'stuff 1',
-        'stuff 2',
-        'stuff 3',
-        'stuff 5',
-    ],
-})
-    
+            st.json({'Limpiador': 'Murad - Time Release Acne Cleanser',
+            'Toner': "Kiehl's - Ultra Facial Toner",
+            'Serum': 'Missha - Time Revolution Prismestem100 Lifting Serum',
+            'General_Moisturizer': 'Naturium Skincare - Retinol Complex Cream',
+            'Day_Moisturizer': 'Isntree - Onion Newpair Gel Cream',
+            'Night_Moisturizer': 'Olehenriksen - Goodnight Glow Retin-ALT Sleeping Crème',
+            'Protector solar': 'IT Cosmetics - CC+ Cream with SPF 50+',
+            })
+                
 
 
 
 
+        with col2:
+            st.metric(label="Limpiador", value=5)
+
+            st.metric(label="Toner", value=123, delta=123,
+    delta_color="off")
