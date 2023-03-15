@@ -9,27 +9,15 @@ import time
 st.set_page_config(
     page_title='Skinwhat')
 
-st.title('¿Qué tipo de piel tengo?'':panda_face:')
+st.sidebar.header('Menu Lateral')
+st.sidebar.subheader('Streamlit Workshop for IH')
 
+st.sidebar.info('Aquí puedes poner una barra de navegación o zonas para cargar archivos')
 
-
-col1 , col2, col3 = st.columns([2 , 2, 2])
-
-col1.markdown("# Bienvenidos a skinwhat")
-col2.markdown('# Qué tipo de piel tengo?')
-col3.markdown('# Qué producto quiero?')
-col2.info('Procesando tu tipo de piel ')
-progress_bar= col2.progress(0)
-
-for perc_completed in range(100):
-    time.sleep(0.009)
-    progress_bar.progress(perc_completed+1)
-
-col2.success('Ya tenemos tu tipo de piel!')
-
-col3.metric(label='Precio', value='12,50$', delta= 1)
-
-with st.expander('Click to read more'):
-    st.write('Heeeeeeey')
-
+upload_image = st.sidebar.file_uploader('Upload an Image', type=['png', 'jpeg', 'jpg'])
+st.caption('## Imágenes')
+if upload_image is not None:
+    st.image(upload_image)
+else:
+    st.image(Image.open('src/images/ih.png'))
     
