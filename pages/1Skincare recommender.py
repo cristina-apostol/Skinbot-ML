@@ -6,7 +6,7 @@ import webbrowser
 import base64
 import time
 
-st.set_page_config(page_icon="🧿", page_title="Skinbot", layout="wide")
+st.set_page_config(page_icon="🧿", page_title="Skinbot")
 
 
 
