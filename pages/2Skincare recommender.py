@@ -92,42 +92,20 @@ else:
     with sun:
         sd =st.multiselect('**Protector solar**',protect )
 
-
-    
-
-    
-
-   
+    st.write('\n')
+    st.write('\n')
 
     with st.spinner('Analizando datos'):
-        
-        
+            
+            
             time.sleep(3)
 
-            col1, col2 = st.columns([3, 1.75])
+            col1, col2 = st.columns([5, 1.75])
 
             with col1:
                 st.success('### La recomendación de Skinbot')
 
                 st.write('\n')
                 st.write('\n')
-                    
-      
-
-
-
-                st.json({'Limpiador': 'Murad - Time Release Acne Cleanser',
-                'Toner': "Kiehl's - Ultra Facial Toner",
-                'Serum': 'Missha - Time Revolution Prismestem100 Lifting Serum',
-                'General_Moisturizer': 'Naturium Skincare - Retinol Complex Cream',
-                'Day_Moisturizer': 'Isntree - Onion Newpair Gel Cream',
-                'Night_Moisturizer': 'Olehenriksen - Goodnight Glow Retin-ALT Sleeping Crème',
-                'Protector solar': 'IT Cosmetics - CC+ Cream with SPF 50+',
-                })
-                
-
-
-
-
-            with col2:
-                st.image(Image.open('pictures/rutina.png'), width= 350)
+                df = pd.read_csv('rutina.csv')
+                st.dataframe(df) 
