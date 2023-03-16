@@ -8,21 +8,26 @@ import time
 
 st.set_page_config(page_icon="🧿", page_title="Skinbot", layout="wide")
 
-df=pd.read_csv('SKINCARE.csv')
+
+
+
+
+df=pd.read_csv('csv/SKINCARE.csv')
+
 
 col1, col2 = st.columns([6, 3])
 
 with col1:
-    st.image(Image.open('titulo.png'), width=600)
+    st.image(Image.open('pictures/titulo.png'), width=600)
 
 with col2:
 
-    st.image(Image.open('face.jpg'), width=200)
+    st.image(Image.open('pictures/face.jpg'), width=200)
 
 
 
 st.subheader('Test skincare recommender')
-page_names = ['Piel', 'Prodcuto']
+page_names = ['Piel', 'Producto']
 page = st.radio('**Elige tu tipo de piel y tus productos favoritos:** ', page_names)
 
 
@@ -97,14 +102,17 @@ else:
     with st.spinner('Analizando datos'):
         
         
-            time.sleep(5)
+            time.sleep(3)
 
-            col1, col2 = st.columns(2)
+            col1, col2 = st.columns([3, 1.75])
 
             with col1:
-                st.success('### Aquí está tu rutina de skincare')
+                st.success('### La recomendación de Skinbot')
+
+                st.write('\n')
+                st.write('\n')
                     
-            #col2=" "
+      
 
 
 
@@ -122,4 +130,4 @@ else:
 
 
             with col2:
-                st.image(Image.open('paso.png'), width= 350)
+                st.image(Image.open('pictures/rutina.png'), width= 350)
