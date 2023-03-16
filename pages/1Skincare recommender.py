@@ -35,28 +35,14 @@ if page == 'Piel' :
     if result1:
         st.caption('Elige uno de los que te mostramos a continuación:')
         st.checkbox('Acne')
-        nes_d = st.checkbox('Puntos negros', value=True)
+        nes_d = st.checkbox('Puntos negros')
         nes_d=st.checkbox('Poros abiertos')
         nes_d= st.checkbox('Brillos')
         st.checkbox('Cicatrices')
-       
-
-        if cont:
-             
-             with st.spinner('Analizando datos'):
-                 time.sleep(5)
-
 
 
     elif result2:
          cont = st.button('Continuar')
-
-
-
-
-
-
-
 
 else:
         
@@ -106,19 +92,19 @@ else:
 
     
 
-
+   
 
     with st.spinner('Analizando datos'):
-            
-            
+        
+        
             time.sleep(5)
 
             col1, col2 = st.columns(2)
 
             with col1:
-                st.success('Esta es la rutina de skincare que skinbot ha creado para ti')
-                
-        #col2=" "
+                st.success('### Aquí está tu rutina de skincare')
+                    
+            #col2=" "
 
 
 
@@ -136,7 +122,4 @@ else:
 
 
             with col2:
-                st.metric(label="Limpiador", value=5)
-
-                st.metric(label="Toner", value=123, delta=123,
-                delta_color="off")
+                st.image(Image.open('paso.png'), width= 350)

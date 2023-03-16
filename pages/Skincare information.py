@@ -14,11 +14,10 @@ from scipy.spatial.distance import pdist, squareform
 st.set_page_config(page_icon="🧿", page_title="Skinbot", layout="wide")
 
 
-st.subheader('¿Qué productos existen según tu tipo de piel?')
+st.subheader(' Productos dipsonibles según tipo de piel ordenados por cantidad de reviews.')
 
 
-
-df=pd.read_csv('SKINCARE.csv')
+df = pd.read_csv('skincaret.csv')
     
 col1 , col2 = st.columns(2)
 
@@ -30,8 +29,11 @@ with col2:
 
 
 filtro = (df[(df.Type == Type) & (df.Skin == Skin)])
-serum= filtro[['Type', 'Products', 'Skin']]
-st.dataframe(serum)
+rev= filtro.sort_values(by= 'Reviews', ascending = False)
+st.dataframe(rev)
 
 
-st.subheader('Meter aqui las graficas')
+st.subheader('Análisis mejores marcas')
+df = pd.read_csv('skincare2.csv')
+
+st.bar_chart(df)
