@@ -22,11 +22,45 @@ with col2:
 
 
 st.subheader('Test skincare recommender')
-page_names = ['Producto', 'Piel']
+page_names = ['Piel', 'Prodcuto']
 page = st.radio('**Elige tu tipo de piel y tus productos favoritos:** ', page_names)
 
 
-if page == 'Producto' :
+if page == 'Piel' :
+
+    Skin = st.selectbox('Selecciona tu tipo de piel', df.Skin.unique())
+    st.write('¿Necesitas algún tratamiento específico?')
+    result1 = st.button('Si')
+    result2 = st.button('No')
+    if result1:
+        st.caption('Elige uno de los que te mostramos a continuación:')
+        st.checkbox('Acne')
+        nes_d = st.checkbox('Puntos negros', value=True)
+        nes_d=st.checkbox('Poros abiertos')
+        nes_d= st.checkbox('Brillos')
+        st.checkbox('Cicatrices')
+       
+
+        if cont:
+             
+             with st.spinner('Analizando datos'):
+                 time.sleep(5)
+
+
+
+    elif result2:
+         cont = st.button('Continuar')
+
+
+
+
+
+
+
+
+else:
+        
+
     st.markdown('**Selecciona tus productos preferidos**')
 
     filtro= (df[(df.Type == 'Face Cleanser') & (df.Skin == 'dry')])
@@ -68,63 +102,41 @@ if page == 'Producto' :
         sd =st.multiselect('**Protector solar**',protect )
 
 
+    
+
+    
 
 
 
-else:
-
-    #col1, col2 = st.columns(2)
-
-    #with col1:
-
-    Skin = st.selectbox('Selecciona tu tipo de piel', df.Skin.unique())
-    st.write('¿Necesitas algún tratamiento específico?')
-    result1 = st.button('Si')
-    result2 = st.button('No')
-    if result1:
-        st.caption('Elige uno de los que te mostramos a continuación:')
-        st.checkbox('Acne')
-        nes_d = st.checkbox('Puntos negros', value=True)
-        nes_d=st.checkbox('Poros abiertos')
-        nes_d= st.checkbox('Brillos')
-        st.checkbox('Cicatrices')
-        cont = st.button('Continuar')
-
-        if cont:
-             
-             with st.spinner('Analizando datos'):
-                 time.sleep(5)
-
-
-
-    elif result2:
-        with st.spinner('Analizando datos'):
+    with st.spinner('Analizando datos'):
+            
+            
             time.sleep(5)
 
-        col1, col2 = st.columns(2)
+            col1, col2 = st.columns(2)
 
-        with col1:
-            st.success('Esta es la rutina de skincare que skinbot ha creado para ti')
-           
-    #col2=" "
+            with col1:
+                st.success('Esta es la rutina de skincare que skinbot ha creado para ti')
+                
+        #col2=" "
 
 
 
-            st.json({'Limpiador': 'Murad - Time Release Acne Cleanser',
-            'Toner': "Kiehl's - Ultra Facial Toner",
-            'Serum': 'Missha - Time Revolution Prismestem100 Lifting Serum',
-            'General_Moisturizer': 'Naturium Skincare - Retinol Complex Cream',
-            'Day_Moisturizer': 'Isntree - Onion Newpair Gel Cream',
-            'Night_Moisturizer': 'Olehenriksen - Goodnight Glow Retin-ALT Sleeping Crème',
-            'Protector solar': 'IT Cosmetics - CC+ Cream with SPF 50+',
-            })
+                st.json({'Limpiador': 'Murad - Time Release Acne Cleanser',
+                'Toner': "Kiehl's - Ultra Facial Toner",
+                'Serum': 'Missha - Time Revolution Prismestem100 Lifting Serum',
+                'General_Moisturizer': 'Naturium Skincare - Retinol Complex Cream',
+                'Day_Moisturizer': 'Isntree - Onion Newpair Gel Cream',
+                'Night_Moisturizer': 'Olehenriksen - Goodnight Glow Retin-ALT Sleeping Crème',
+                'Protector solar': 'IT Cosmetics - CC+ Cream with SPF 50+',
+                })
                 
 
 
 
 
-        with col2:
-            st.metric(label="Limpiador", value=5)
+            with col2:
+                st.metric(label="Limpiador", value=5)
 
-            st.metric(label="Toner", value=123, delta=123,
-    delta_color="off")
+                st.metric(label="Toner", value=123, delta=123,
+                delta_color="off")

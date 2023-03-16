@@ -24,18 +24,18 @@ with col3:
 
 st.title('Bienvenido a Skinbot')
 
+st.subheader('¿Qué es Skinbot?')
+
+st.write('Skibot es un robot creado para recomendar las mejores rutinas faciales en base a tus gustos y tus necesidades, utilizando un modelo de recomendación de machine learning, creado con una robusta base de datos.')
+
+st.subheader('¿Cómo surge esta idea?')
+st.write('En base a las tendencias actuales y el creciente interés por mantener una piel limpia y sana, s')
+
+st.sidebar.header('Bootcamp análisis de datos Ironhack')
+st.sidebar.subheader('Proyecto modelo de recomendación')
 
 
 
-st.sidebar.header('Menu Lateral')
-st.sidebar.subheader('Streamlit Workshop for IH')
+st.sidebar.button('Click aquí si deseas ver más información')
 
-st.sidebar.info('Aquí puedes poner una barra de navegación o zonas para cargar archivos')
-
-upload_image = st.sidebar.file_uploader('Upload an Image', type=['png', 'jpeg', 'jpg'])
-st.caption('## Imágenes')
-if upload_image is not None:
-    st.image(upload_image)
-else:
-    st.image(Image.open('src/images/ih.png'))
-    
+st.sidebar.info('By Cristina Apostol')
