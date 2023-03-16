@@ -6,10 +6,12 @@ import pylab as plt
 import webbrowser
 import base64
 import time
-import pandas as pd
 import numpy as np
+import altair as alt
+import plotly.express as px
 
 from scipy.spatial.distance import pdist, squareform
+
 
 st.set_page_config(page_icon="🧿", page_title="Skinbot", layout="wide")
 
@@ -35,5 +37,25 @@ st.dataframe(rev)
 
 st.subheader('Análisis mejores marcas')
 df = pd.read_csv('skincare2.csv')
+filtro= df.Brand.unique()
 
-st.bar_chart(df)
+
+
+brand_counts = df['Brand'].value_counts().reset_index()
+brand_counts.columns = ['Brand', 'Count']
+
+# Creamos un gráfico de barras utilizando Plotly Express
+fig = px.bar(brand_counts, x='Brand', y='Count', color='Brand')
+
+# Utilizamos Streamlit para mostrar el gráfico
+st.plotly_chart(fig)
+
+df2= pd.read_csv('skincaret.csv')
+st.subheader('Mejores marcas según ratings')
+
+
+# Creamos un gráfico de barras utilizando Plotly Express
+fig = px.bar(df2, x='Product', y='Reviews', color='Product')
+
+# Utilizamos Streamlit para mostrar el gráfico
+st.plotly_chart(fig)
