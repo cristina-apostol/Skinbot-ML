@@ -1,4 +1,4 @@
-pylab
+
 numpy 
 pandas 
 webbrowser
